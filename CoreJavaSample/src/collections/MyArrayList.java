@@ -75,6 +75,7 @@ public class MyArrayList {
 		
 		mal.remove(5);
 		System.out.println(mal.get(7));
+		System.out.println("hello");
 	}
 
 }
